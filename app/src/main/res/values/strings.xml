@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tarefa_tarifa</string>
+    <string name="titulo">Calculador de Tarifas</string>
+    <string name="valor">Valor da conta:</string>
+    <string name="tarifa">Tarifa:</string>
+    <string name="total">Total:</string>
+    <string name="botao">Calcular</string>
+</resources>
